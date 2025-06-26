@@ -1,0 +1,12 @@
+{
+  "name": "Rutracker | People Playground",
+  "downloads": [
+    {
+      "title": "Warcraft 3 [1.27b]",
+      "uris": [
+        "https://drive.usercontent.google.com/download?id=1QLptYNuohYekxzAZxWApLz0e9CaUNOLn&export=download&authuser=0"
+		    "https://www.mediafire.com/file/fvbmhvz6opofpwu/WCIIICEPGFX.v1.27b.GamezFull.COM.rar/file"
+      ],
+      "uploadDate": "2023-01-15T00:00:00.000Z",
+      "fileSize": "3.5 GB"
+    },
